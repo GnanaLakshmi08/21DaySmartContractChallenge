@@ -1,7 +1,7 @@
 # 21DaySmartContractChallenge
 21 days of learning to code solidity smart contracts
 
-This respository contains 10 smart contracts each with their own problem statement
+This respository contains smart contracts spanning over 10 days(some in parts) each with their own problem statement
 and if possible, a remix recorded video of the smart contract functioning.
 
 We have tried to create the problem statements such that they encompass 
